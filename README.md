@@ -11,5 +11,5 @@ Football Elemzésekhez szükséges programok
 Készülőben:
   - A 2019/2020-as NB1-es szezon minden pozíciójára elvégezni a korreláció vizsgálatot.
   - Klónozni az Instat algoritmust.
-  - Amennyiben jobb mérőszámokat tudunk létrehozni a teljesítmény mérésére akkor létrehozni a "path-Index"-et. (Machine Learning, Deep Learning, Artificial intelligence)
+  - Amennyiben jobb mérőszámokat tudunk létrehozni a teljesítmény mérésére akkor létrehozni a "path-Index"-et. (Machine Learning, Deep Learning, Artificial Intelligence)
 
